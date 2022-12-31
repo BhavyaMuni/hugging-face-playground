@@ -54,6 +54,10 @@ cover/
 data/
 output/
 wandb/
+text_lyrics/
+archive/
+artist-lyrics/
+
 # Translations
 *.mo
 *.pot
