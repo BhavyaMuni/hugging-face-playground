@@ -58,7 +58,7 @@ text_lyrics/
 archive/
 artist-lyrics/
 .DS_Store
-
+.vscode/
 # Translations
 *.mo
 *.pot
