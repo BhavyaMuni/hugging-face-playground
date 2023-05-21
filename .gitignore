@@ -57,6 +57,7 @@ wandb/
 text_lyrics/
 archive/
 artist-lyrics/
+.DS_Store
 
 # Translations
 *.mo
